@@ -1,0 +1,7 @@
+{
+  "name": "Trilingual AI Chatbot",
+  "description": "A friendly, modern web app that acts as a trilingual language learning assistant for Arabic, French, and English. The chatbot teaches vocabulary and grammar contextually through interactive dialogue, provides real-time grammar correction, pronunciation practice with scoring, and generates custom flashcards from conversations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
